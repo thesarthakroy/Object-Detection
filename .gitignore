@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Application configuration, runtime outputs & weights
+config.json
+output/
+*.log
+*.pt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
